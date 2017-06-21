@@ -1,0 +1,177 @@
+body{
+	background: url('beige.jpg') repeat;
+}
+nav ul{
+	display: inline-flex;
+	list-style-type: none;
+	align-items: center;
+	margin: 10px;
+}
+.a{
+	
+	margin: 10px;
+}
+.b{
+	margin: 10px;
+	margin-left: -65px;
+	position: relative;
+	left: -1.8cm;
+}
+.d{
+	margin-left: -20px;
+	padding-left: 10px;
+	padding-right: 70px;
+	position: relative;
+	top: -0.4cm;
+}
+.e{
+	margin-right: -20px;
+	padding-right: 10px;
+	padding-left: 70px;
+	position: relative;
+	top: -0.4cm;
+}
+header
+{
+	border: 3px black solid;
+	border-radius: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	height: 100px;
+	padding-right: 20px;
+	background-color: white;
+	position: relative;
+	margin-right: 225px;
+	margin-left: 175px;
+	left: 0.85cm;
+	width: 920px;
+}
+nav a:hover{
+	color: blue;
+}
+.c {
+	position: relative;
+	left: 5.70cm;
+	border: 1px solid red;
+	width: 930px;
+	height: 1230px;
+}
+.dd{
+	border: 2px solid blue;
+	height: 250px;
+	width: 928px;
+	position: relative;
+}
+#title{
+	height: 450px;
+	border: 1px solid black;
+	width: 930px;
+	position: relative;
+	left: 5.70cm;
+}
+#title h1{
+	position: relative;
+	left: 8cm;
+	top: 0.2cm;
+}
+#title p{
+	position: relative;
+	top: -0.3cm;
+	left: 10cm;
+}
+.aa{
+	position: relative;
+	color: green;
+	top: 0.3cm;
+	left: 9.7cm;
+}
+.yy{
+	height: 50px;
+	border-top: 5px solid yellow;
+	border-bottom: 5px solid yellow;
+}
+.yy p{
+	position: relative;
+	left: 10cm;
+	top: -0.5cm;
+}
+.xx{
+	height: 250px;
+	border: 2px solid green;
+	width: 927px;
+	position: relative;
+}
+#x1{
+	height: 250px;
+	border: 1px solid brown;
+	width: 450px;
+	position: relative;
+	left: 0.14cm;
+}
+#x2{
+	height: 250px;
+	border: 1px solid brown;
+	width: 450px;
+	position: relative;
+	top: -6.7cm;
+	left: 12.37cm;
+}
+.pp{
+	height: 250px;
+	border: 2px solid green;
+	width: 927px;
+	position: relative;
+}
+#p1{
+	height: 250px;
+	border: 1px solid brown;
+	width: 450px;
+	position: relative;
+	left: 0.14cm;
+}
+#p2{
+	height: 250px;
+	border: 1px solid brown;
+	width: 450px;
+	position: relative;
+	top: -6.7cm;
+	left: 12.37cm;
+}
+.foot{
+	height: 210px;
+	width: 928px;
+	border: 1px solid black;
+	position: relative;
+}
+.cont{
+	height: 200px;
+	width: 300px;
+	border: 1px solid red;
+	position: relative;
+	top: 0.08cm;
+	margin-left: 90px;
+}
+.seg{
+	height: 200px;
+	width: 300px;
+	border: 1px solid black;
+	position: relative;
+	top: -5.3cm;
+	margin-left: 520px;
+}
+.rr{
+	border: 1px solid aqua;
+	width: 930px;
+	height: 100px;
+	position: relative;
+}
+.ff{
+	border: 1px solid blue;
+	position: relative;
+	height: 80px;
+	width: 928px;
+}
+
+
+
